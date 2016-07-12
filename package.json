@@ -1,0 +1,37 @@
+{
+  "name": "egg-init-config",
+  "version": "1.0.0",
+  "description": "egg init boilerplate config",
+  "files": [
+    "index.js"
+  ],
+  "config": {
+    "boilerplate": {
+      "simple": {
+        "package": "egg-boilerplate-simple",
+        "description": "Simple egg app boilerplate"
+      },
+      "plugin": {
+        "package": "egg-boilerplate-plugin",
+        "description": "egg plugin boilerplate"
+      }
+    }
+  },
+  "homepage": "https://github.com/eggjs/egg-init-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eggjs/egg-init-config.git"
+  },
+  "bugs": {
+    "email": "fengmk2@gmail.com",
+    "url": "https://github.com/eggjs/egg/issues"
+  },
+  "keywords": [
+    "egg",
+    "egg-init"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.com)"
+}
