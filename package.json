@@ -11,6 +11,10 @@
         "package": "egg-boilerplate-simple",
         "description": "Simple egg app boilerplate"
       },
+      "empty": {
+        "package": "egg-boilerplate-empty",
+        "description": "Empty egg app boilerplate"
+      },
       "plugin": {
         "package": "egg-boilerplate-plugin",
         "description": "egg plugin boilerplate"
