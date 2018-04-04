@@ -11,6 +11,10 @@
         "package": "egg-boilerplate-simple",
         "description": "Simple egg app boilerplate"
       },
+      "ts": {
+        "package": "egg-boilerplate-ts",
+        "description": "Simple egg && typescript app boilerplate"
+      },
       "empty": {
         "package": "egg-boilerplate-empty",
         "description": "Empty egg app boilerplate"
