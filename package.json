@@ -11,6 +11,10 @@
         "package": "egg-boilerplate-simple",
         "description": "Simple egg app boilerplate"
       },
+      "sequelize": {
+        "package": "egg-boilerplate-sequelize",
+        "description": "egg app with sequelize"
+      },
       "ts": {
         "package": "egg-boilerplate-ts",
         "description": "Simple egg && typescript app boilerplate"
