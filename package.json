@@ -11,6 +11,10 @@
         "package": "egg-boilerplate-simple",
         "description": "Simple egg app boilerplate"
       },
+      "microservice": {
+        "package": "egg-boilerplate-microservice",
+        "description": "Microservice app boilerplate based on egg"
+      },
       "sequelize": {
         "package": "egg-boilerplate-sequelize",
         "description": "egg app with sequelize"
