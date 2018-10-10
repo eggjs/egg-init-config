@@ -1,4 +1,10 @@
 
+1.5.0 / 2018-10-10
+==================
+
+**features**
+  * [[`6000887`](http://github.com/eggjs/egg-init-config/commit/6000887b1360bbed23387838e5abdc5811fe3f7a)] - feat: add egg-boilerplate-microservice (宗羽 <<xiaochen.gaoxc@antfin.com>>)
+
 1.4.0 / 2018-08-16
 ==================
 
