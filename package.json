@@ -19,6 +19,10 @@
         "package": "egg-boilerplate-sequelize",
         "description": "egg app with sequelize"
       },
+      "sequelize-migration": {
+        "package": "egg-boilerplate-sequelize-migration",
+        "description": "egg app with sequelize and migration"
+      },
       "ts": {
         "package": "egg-boilerplate-ts",
         "description": "Simple egg && typescript app boilerplate"
